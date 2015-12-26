@@ -9,3 +9,5 @@
         (elixir) expanding macro: Kernel.use/1
         lib/strangeerror.ex:2: StrangeError (module)
 
+
+  Raised issue ar elixir repo: https://github.com/elixir-lang/elixir/issues/4120
